@@ -215,6 +215,7 @@
   justify-content: space-between;
   display: flex;
   flex-wrap: wrap;
+  padding: 0;
 }
 
 /* блоки с 4-6*/
@@ -430,6 +431,7 @@
   padding: 0;
   margin: 0;
   display: flex;
+  box-sizing: border-box;
 }
 
 .footer__columns {
@@ -448,7 +450,9 @@
 
 .footer__column_content_copyright {
   flex-basis: 711px;
-  display: block;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .footer__column_content_info {
@@ -479,14 +483,9 @@
 
 .footer__author {
   color: #f2f2f2;
-  margin-bottom: 18px;
-  margin-top: 18px;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
 
 .footer__column-heading {
