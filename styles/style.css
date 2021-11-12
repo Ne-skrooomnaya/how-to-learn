@@ -391,7 +391,7 @@ text-decoration: none;
   top: 0;
   right: -210px;
   background-repeat: no-repeat;
-  background-image: url(../../../images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
   z-index: 1;
   background-size: cover;
 }
