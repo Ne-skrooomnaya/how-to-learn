@@ -325,7 +325,7 @@ text-decoration: none;
   text-align: center;
   margin-top: 90px;
   position: relative;
-  z-index: 3;
+  z-index: 4;
 }
 /*блок 2 p*/
 .section-subtitle_theme_dark {
@@ -339,7 +339,7 @@ text-decoration: none;
   font-size: 24px;
   font-weight: normal;
   text-align: center;
-  z-index: 3;
+  z-index: 4;
 }
 /*блок 3 с 4-6*/
 .table_theme_dark {
@@ -352,7 +352,7 @@ text-decoration: none;
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 90px;
-  z-index: 3;
+  z-index: 1;
 }
 /*блоки 4 с 5-6*/
 /* и элемента с модификатором вида ключ-значение */
@@ -392,7 +392,7 @@ text-decoration: none;
   right: -210px;
   background-repeat: no-repeat;
   background-image: url(../images/kaufman-triangle.svg);
-  z-index: 1;
+  z-index: 2;
   background-size: cover;
 }
 /*NO KAUFMAN*/
