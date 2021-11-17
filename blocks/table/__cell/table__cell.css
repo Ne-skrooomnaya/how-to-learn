@@ -1,0 +1,7 @@
+/* блоки с 4-6*/
+.table__cell {
+    width: 250px;
+    justify-content: space-between;
+    margin-top: 60px;
+    display: block;
+  }

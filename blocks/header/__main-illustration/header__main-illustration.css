@@ -1,0 +1,10 @@
+.header__main-illustrator {
+    width: 765px;
+    height: 608px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    display: block;
+    object-fit: cover;
+    z-index: 2;
+  }

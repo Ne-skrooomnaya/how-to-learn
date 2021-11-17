@@ -1,0 +1,12 @@
+/* блок 3 с 4-6*/
+.two-columns__main-text {
+    width: 80%;
+    min-width: 784px;
+    margin-top: 0;
+    margin-right: 0;
+    right: 0;
+    line-height: 34px;
+    font-size: 24px;
+    font-style: normal;
+  }
+  
