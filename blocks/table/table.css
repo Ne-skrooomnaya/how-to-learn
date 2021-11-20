@@ -1,3 +1,4 @@
+/* блок 3 для 4-6*/
 .table {
     width: 1100px;
     margin-top: 0;
@@ -8,5 +9,4 @@
     display: flex;
     flex-wrap: wrap;
     padding: 0;
-    overflow-x:hidden;
   }

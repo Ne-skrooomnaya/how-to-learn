@@ -8,5 +8,5 @@
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 90px;
-    z-index: 2;
+    z-index: 1;
   }

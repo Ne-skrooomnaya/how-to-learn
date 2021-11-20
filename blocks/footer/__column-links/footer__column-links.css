@@ -1,15 +1,6 @@
-.footer__column-links:hover {
+.footer__column-links .footer__column-link:hover {
     opacity: 0.4;
     transition: 0.35s;
-  }
-  
-  .footer__column-links .footer__column-link:link{
-    color: #f2f2f2;
-    text-decoration: none;
-  }
-  
-  .footer__column-links .footer__column-link:visited {
-    color: #f2f2f2;
   }
 
   .footer__column-links {
@@ -22,11 +13,7 @@
     font-weight: normal;
   }
   
-  .footer__column-links .footer__social-icon:link{
-    color: #f2f2f2;
-    text-decoration: none;
-  }
-  
-  .footer__column-links .footer__social-icon:visited {
-    color: #f2f2f2;
+  .footer__column-links .footer__social-icon:hover {
+    opacity: 0.4;
+    transition: 0.35s;
   }
