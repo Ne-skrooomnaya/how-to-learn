@@ -16,7 +16,3 @@
     opacity: 0.4;
     transition: 0.35s;
   }
-  
-  .feynman .feynman__link:link{
-  text-decoration: none;
-  }
